@@ -15,7 +15,7 @@ function App() {
   return (
     <div className={appClass}>
       <header>
-        <h2>Shopster</h2>
+        <h2>Galleria shoping online</h2>
         <button onClick={handleToggleDarkMode}>
           {isDarkMode ? "Light Mode" : "Dark Mode"}
         </button>
